@@ -1,46 +1,36 @@
 # Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-👨‍🎓 I’m Ervin, a third year student studying Computer Science in National Tsing Hua University. During my three years, I have had a taste of some of the various fields of 
-Computer Science including threading in Operating Systems, building websites using React and mobile apps with Kotlin.
+👨‍🎓 I’m Ervin, a Master’s graduate in Computer Science from Simon Fraser University, specializing in machine learning, multi-agent systems, and planning algorithms.
 
-I recently took a course on Database Management Systems where I learned the architecture behind a DBMS. This involved the query parser and Plan/Scan tree of the query engine, 
-and also file management, concurrrency and recovery implementations of the storage engine.
+My recent work focuses on accelerating classical planning methods using learning. In my thesis, I proposed **LEAP-PBS**, a learning-guided approach to improve Priority-Based Search for lifelong multi-agent pathfinding in large-scale warehouse environments.
 
-<!--- Talk about ML? --->
+🧠 My interests include:
+- Machine Learning & Deep Learning
+- Multi-Agent Systems & Pathfinding (MAPF)
+- AI for Robotics & Planning
+- Bridging learning and classical algorithms
 
-🎸 In my free time, I play guitar and listen to music. I love watching Netflix and Modern Family is my personal favorite.
+⚙️ I’ve worked with:
+- PyTorch for building and training ML models
+- Simulation environments for generating training data
+- Integrating learned models into classical search-based systems
 
-📚 I also love reading, particularly books on personal development. Two of my favorites are The Power of Habit by Charles Duhigg and Deep Work by Cal Newport. These books have shaped and is constantly pushing me to improve the productivity of my work.
+🌱 Recently, I’ve been exploring how learning can enhance traditional algorithms while maintaining robustness and guarantees.
 
-<!---
-- 👀 I’m interested in ...
---->
+---
 
-<!---
-- 🌱 I’m currently learning ...
---->
+🎸 Outside of tech, I enjoy playing guitar, listening to music, and watching shows (Modern Family still a favorite 😄).
 
-<!---
-- 💞️ I’m looking to collaborate on ...
---->
+📚 I also enjoy reading—especially books on productivity and personal growth like *Deep Work* and *The Power of Habit*.
 
-<!---
-- 📫 How to reach me ...
---->
+---
 
+📫 Let’s connect!
 
 [![linkedin](https://img.shields.io/badge/Linked_In-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ervinsamuel/)
 
-
-
-<!---
-ervsam/ervsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+---
 
 <!---
-Reference:
-https://github.com/ruppysuppy/ruppysuppy/blob/main/README.md
+ervsam/ervsam is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
-
